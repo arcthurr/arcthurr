@@ -2,6 +2,8 @@
 
 oouh there is stars on the sky..    hi im arthur
 
+-
+
 thesee are my projects im doing rn:..
 - [deezer-enhanced](https://github.com/arcthurr/deezer-enhanced): A fork of better-deezer (by @Gabizoc) and deezer-enhanced (by @duzda) in one linux app.
 - polaris-rust: @staraepp's fork of T3 Code, [Polaris](https://github.com/staraepp/polaris), rewritten in Rust in Iced ui style.
